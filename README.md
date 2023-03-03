@@ -12,8 +12,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -26,14 +24,14 @@ Users should be able to:
 ### Screenshot
 
 #### Desktop
-![](./assets/screenshots/screenshot-desktop)
+![](assets/screenshots/screenshot-desktop.png)
 
-####Mobile
-![](./assets/screenshots/screenshot-mobile)
+#### Mobile
+![](assets/screenshots/screenshot-mobile.png)
 
 ### Links
 
-- Live Site URL: [https://phenomenal-pixie-57d811.netlify.app)
+- Live Site URL: [https://phenomenal-pixie-57d811.netlify.app/](https://phenomenal-pixie-57d811.netlify.app/)
 
 ## My process
 
@@ -48,6 +46,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [brenobms97](https://www.frontendmentor.io/profile/brenobms97)
